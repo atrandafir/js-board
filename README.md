@@ -1,3 +1,7 @@
+# TODO
+
+- Make a vanilla JS version
+
 # Usage example
 
 Setup.
